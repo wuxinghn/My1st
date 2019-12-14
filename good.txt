@@ -2,8 +2,3 @@ aaaaaaaa
 bbbbbbbb
 cccccccc
 dddddddd
-5[e]
-6[f]
-7[g]
-8[i] by master
-8[h] edit by theme
